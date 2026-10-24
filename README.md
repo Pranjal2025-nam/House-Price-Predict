@@ -1,5 +1,5 @@
 Royal Estates: House & Plot Price Prediction (Decision Tree + Streamlit)
-
+live app: https://house-price-predict-npxwtqncvjsuffarf48mqt.streamlit.app/
 A machine learning project that predicts house and plot prices for highway and inside-colony locations, with a Streamlit web app that shows colonies, photos, swimming pool, kids' parks, interiors, an EMI calculator and a price estimator.
 
 📁 Project files
